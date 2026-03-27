@@ -13,4 +13,3 @@ Loading products...
 ## Links
 
 - Website: [www.ethanbase.com](https://www.ethanbase.com)
-- Hub: [hub.ethanbase.com](https://hub.ethanbase.com)
