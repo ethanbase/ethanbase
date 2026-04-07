@@ -7,6 +7,7 @@ This profile stays in sync with products published under `ethanbase.com`.
 ## Products
 
 <!-- websites:start -->
+- [Threadly](https://threadly.ethanbase.com) — Understand what is blocking a deal, know the best next move, and draft the right reply from any sales email thread.
 - [Toolpad](https://toolpad.ethanbase.com) — Help builders discover better tools faster through reviewed product listings, comparisons, roundups, and practical editorial guides.
 - [Miner](https://miner.ethanbase.com) — Help builders stop guessing what to build by surfacing validated pain points, explicit buyer intent, and clearer product opportunities from noisy social discussions.
 - [Ethanbase](https://www.ethanbase.com) — Give visitors one clean home to discover Ethanbase products, understand what each product does, and navigate to the right tool or site.
